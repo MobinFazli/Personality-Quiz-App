@@ -4,6 +4,8 @@
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  /> 
 
->![Simulator Screenshot - iPhone 15 Pro - 2024-03-25 at 14 43 44](https://github.com/MobinFazli/Personality-Quiz-App/assets/126828525/5f18ea3c-0b57-4244-815c-10d6dffac95c)
+> ![Iphone](https://github.com/MobinFazli/Personality-Quiz-App/assets/126828525/fa7746af-4706-49c1-9f1b-e7940e7ecbeb)
+
+> ![Mobile](https://github.com/MobinFazli/Personality-Quiz-App/assets/126828525/b0220197-b486-43d6-ab84-7e608f496770)
 
 > ### This Beginner iOS App Built With Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="swift logo"  /> Helps Users Explore Their Personality Traits Using Emoji-Based Quizzes
